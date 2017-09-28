@@ -1,0 +1,23 @@
+{
+  "name": "@copoch/sc-template-vue",
+  "version": "0.0.1",
+  "description": "面向 Vue 的初始化样板代码",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/copochonline/sc-template-vue.git"
+  },
+  "keywords": [
+    "vue",
+    "boilerplate"
+  ],
+  "author": "yulin",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/copochonline/sc-template-vue/issues"
+  },
+  "homepage": "https://github.com/copochonline/sc-template-vue#readme"
+}
